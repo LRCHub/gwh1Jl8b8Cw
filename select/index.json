@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Lonely Road",
+  "base_artist": "Yvng Patra",
+  "createdAt": "2025-12-04T09:24:12.797027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walk a Lonely Road",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/01_Walk_a_Lonely_Road_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lonely Road",
+      "artist": "WILLOW",
+      "has_synced": true,
+      "path": "select/02_Lonely_Road_WILLOW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely Road to Absolution",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/03_Lonely_Road_to_Absolution_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lonely Road",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/04_Lonely_Road_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lonely Road Of Faith",
+      "artist": "Kid Rock",
+      "has_synced": true,
+      "path": "select/05_Lonely_Road_Of_Faith_Kid_Rock.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely Road",
+      "artist": "Everlast",
+      "has_synced": true,
+      "path": "select/06_Lonely_Road_Everlast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lonely Road",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/07_Lonely_Road_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lonely Road",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/08_Lonely_Road_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lonely Road",
+      "artist": "Leatherwolf",
+      "has_synced": true,
+      "path": "select/09_Lonely_Road_Leatherwolf.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lonely Road",
+      "artist": "The Red Jumpsuit Apparatus",
+      "has_synced": true,
+      "path": "select/10_Lonely_Road_The_Red_Jumpsuit_Apparatus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Long And Lonely Road",
+      "artist": "Hawk Nelson",
+      "has_synced": true,
+      "path": "select/11_Long_And_Lonely_Road_Hawk_Nelson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely Road",
+      "artist": "Yvng Patra",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_Road_Yvng_Patra.txt"
+    }
+  ]
+}
